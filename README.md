@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Aarush 👋
 
-<!--
-**AarushKamatCodeRVA/AarushKamatCodeRVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building clean and efficient applications with modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Frontend:** HTML, CSS, JavaScript, ReactJS  
+- **Backend:** Discord.py, Bit of PostgresSQL,  
+
+---
+
+## 🛠️ Tools
+Windows, MacOS, Linux | VSCode | Gitpod | Codespaces | Discord
+
+---
+
+## 📚 Learning
+- TypeScript, GOLang
+
+---
+
+## 🚀 Projects
+- **[CrynoxAI](https://github.com/yourusername/CrynoxAI)** – An AI-powered project that showcases my skills in Python and JavaScript.
+
+---
+
+## 📫 Connect with Me
+- Discord: `oscisadev`  
+
+---
+
+Don't forget to star my repo's! 🌟
