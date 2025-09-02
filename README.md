@@ -1,6 +1,8 @@
 # Hi there, I'm Aarush 👋
 
-Welcome to my GitHub profile! I'm passionate about building clean and efficient applications with modern technologies.
+I'm a 14 year old, Full Stack Dev Allways interested in learning more languages.
+
+Proud indian, located in US. 🇮🇳 🇺🇲 
 
 ---
 
