@@ -22,8 +22,8 @@ Windows, MacOS, Linux | VSCode | Gitpod | Codespaces | Discord
 
 ---
 
-## 🚀 Projects
-- **[CrynoxAI](https://github.com/yourusername/CrynoxAI)** – An AI-powered project that showcases my skills in Python and JavaScript.
+## 🚀 What I'm Working On
+- **[CrynoxAI](https://github.com/AarushKamatCodeRVA/CrynoxAI)** – An AI-powered project that showcases my skills in Typescript and ReactJS, used for the congressional App challange..
 
 ---
 
