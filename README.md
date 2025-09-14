@@ -18,7 +18,7 @@ Windows, MacOS, Linux | VSCode | Gitpod | Codespaces | Discord
 ---
 
 ## 📚 Learning
-- TypeScript, GOLang
+- C#
 
 ---
 
