@@ -1,4 +1,4 @@
-# Hi there, I'm Aarush 👋
+# Hi there, I'm OSC 👋
 
 I'm a 14 year old, Full Stack Dev Allways interested in learning more languages.
 
@@ -23,12 +23,12 @@ Windows, MacOS, Linux | VSCode | Gitpod | Codespaces | Discord
 ---
 
 ## 🚀 What I'm Working On
-- **[CrynoxAI](https://github.com/AarushKamatCodeRVA/CrynoxAI)** – An AI-powered project that showcases my skills in Typescript and ReactJS, used for the congressional App challange..
+- **[CrynoxAI](https://github.com/darealosc/CrynoxAI)** – An AI-powered project that showcases my skills in Typescript and ReactJS, used for the congressional App challange..
 
 ---
 
 ## 📫 Connect with Me
-- Discord: `oscisadev`  
+- Discord: `darealosc`  
 
 ---
 
