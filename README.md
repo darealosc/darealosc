@@ -8,7 +8,7 @@ Proud indian, located in US. 🇮🇳 🇺🇲
 
 ## 🔧 Skills
 - **Frontend:** HTML, CSS, JavaScript, ReactJS  
-- **Backend:** Discord.py, Bit of PostgresSQL,  
+- **Backend:** Discord.py, tryna use postgresSQL 
 
 ---
 
